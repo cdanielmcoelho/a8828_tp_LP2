@@ -1,0 +1,23 @@
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\bin\Debug\ParqueDL.dll
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\bin\Debug\ParqueDL.pdb
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\bin\Debug\ParqueBO.dll
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\bin\Debug\ParqueBO.pdb
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\obj\Debug\ParqueDL.csprojResolveAssemblyReference.cache
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\obj\Debug\ParqueDL.dll
+D:\IPCA\2 Semestre\LP2\TrabalhoN3_Parque\Parque\ParqueDL\obj\Debug\ParqueDL.pdb
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\bin\Debug\ParqueDL.dll
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\bin\Debug\ParqueDL.pdb
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\bin\Debug\ParqueBO.dll
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\bin\Debug\ParqueBO.pdb
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\obj\Debug\ParqueDL.csprojResolveAssemblyReference.cache
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\obj\Debug\ParqueDL.dll
+D:\IPCA\2 Semestre\LP2\TRABALHOS FINAIS\Trabalho_1_F2_9914\Parque\ParqueDL\obj\Debug\ParqueDL.pdb
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\bin\Debug\ParqueDL.dll
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\bin\Debug\ParqueDL.pdb
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\bin\Debug\ParqueBO.dll
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\bin\Debug\ParqueBO.pdb
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\obj\Debug\ParqueDL.csprojAssemblyReference.cache
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\obj\Debug\ParqueDL.csproj.CoreCompileInputs.cache
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\obj\Debug\ParqueDL.csproj.CopyComplete
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\obj\Debug\ParqueDL.dll
+C:\Users\a8828\Downloads\Daniel\Trabalho_1_F2_9914_v2\Trabalho_1_F2_9914 - Cópia\Parque\ParqueDL\obj\Debug\ParqueDL.pdb
